@@ -87,7 +87,3 @@ Note: The current implementation appends a new JSON object on each run — the f
 ## Contributing
 
 Contributions, bug reports and improvements are welcome. Please open an issue or submit a pull request with a description of the change.
-
-## License
-
-This project does not include an explicit license file. If you would like to add a license, add a `LICENSE` file (for example, MIT or Apache 2.0) to the repository.
