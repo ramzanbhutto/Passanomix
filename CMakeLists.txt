@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(SecurePasswordManager)
+project(Passanomix)
 
 # Set C++ standard
 set(CMAKE_CXX_STANDARD 14)

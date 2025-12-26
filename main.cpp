@@ -25,7 +25,7 @@ string getPasswordInput(const string& prompt){
 void printHeader(){
   cout<<"\n";
   cout<<"========================================\n";
-  cout<<"   Secure Password Manager v1.0\n";
+  cout<<"   Passanomix - A Secure Password Manager v1.0\n";
   cout<<"   Keep your passwords safe & secure\n";
   cout<<"========================================\n";
   cout<<"\n";
@@ -151,7 +151,7 @@ int main(){
         }
       }else if(choice==5){
         // Exit program
-        cout<<"\nThanks for using Secure Password Manager!\n";
+        cout<<"\nThanks for using Passanomix!\n";
         cout<<"Stay safe online!\n\n";
         break;
       }else{
